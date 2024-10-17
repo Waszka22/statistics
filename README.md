@@ -12,12 +12,12 @@ Task Assessment for <em><strong>Applied Statistics</strong></em> module on <em><
 ### Getting Started
 + 1.Install Anaconda
 + 2.Install Visual Studio Code
-+ 3.Download or clone current repository Fundamentals-of-Data-Analysis-Project
++ 3.Download or clone current repository statistics
 + 4.Open Command Interpreter and get into correct directory
 + 5.Install packages by running pip install -r requirements.txt 
 + 6.Run Jupyter Notebook
-+ 7.On the home page of opened Jupyter server select <code>Fundamentals-of-Data-Analysis-Project</code>
-+ 8.The Jupyter Notebook <code>Fundamentals-of-Data-Analysis-Project</code> project can be viewed directly on GitHub repository without installation 
++ 7.On the home page of opened Jupyter server select <code>statistics</code>
++ 8.The Jupyter Notebook <code>statistics </code> project can be viewed directly on GitHub repository without installation 
 
 ### Content of repository 
 * The Readme file

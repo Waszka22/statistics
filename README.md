@@ -45,7 +45,7 @@ Libraries used to complete project
 * [numpy](https://numpy.org/)
 * [matplotlib](https://matplotlib.org/)
 * [seborn](https://seaborn.pydata.org/)
-* [random](https://docs.python.org/3/library/random.html)git
+* [random](https://docs.python.org/3/library/random.html)
 
 
 ### 

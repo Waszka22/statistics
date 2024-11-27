@@ -11,6 +11,9 @@ Task Assessment for <em><strong>Applied Statistics</strong></em> module on <em><
 <img src="photo.s.JPG" style="width:1128px; height:191px"/>
 
 
+![Project Logo](photo.png)
+
+
 *** 
 
 ### Getting Started

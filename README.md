@@ -4,7 +4,11 @@
 Task Assessment for <em><strong>Applied Statistics</strong></em> module on <em><strong>Higher Diploma in Science in Computing in Data Analytics at ATU</strong></em>.  
 
 *Submitted by*: Agnieszka Waszczuk 
+
 *Lecturer*: Ian McLoughlin
+
+
+<img src="photo.s.JPG" style="width:1128px; height:191px"/>
 
 
 *** 

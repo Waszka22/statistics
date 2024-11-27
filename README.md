@@ -8,10 +8,10 @@ Task Assessment for <em><strong>Applied Statistics</strong></em> module on <em><
 *Lecturer*: Ian McLoughlin
 
 
-<img src="photo.s.JPG" style="width:1128px; height:191px"/>
+<img src="photo.jpg" style="width:1128px; height:191px"/>
 
 
-![Project Logo](photo.png)
+![Project Logo](photo.jpg)
 
 
 *** 

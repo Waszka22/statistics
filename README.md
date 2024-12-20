@@ -64,10 +64,12 @@ The project uses the PlantGrowth dataset, which contains measurements of plant w
 5. Install packages:
 ```bash
 conda install --yes --file requirements.txt
-
+```
+and
 
 ```bash
 pip install -r requirements.txt
+```
 
 6. Run Jupyter Notebook
 7. On the home page of opened Jupyter server select <code>statistics</code>

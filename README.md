@@ -76,11 +76,13 @@ pip install -r requirements.txt
 8. The Jupyter Notebook <code>statistics </code> project can be viewed directly on GitHub repository without installation 
 
 
+
 ### Programing Language 
 
 Python 3.10.9 version was used
 
 * [Python](https://www.python.org/)
+
 
 ## Technologies 
 

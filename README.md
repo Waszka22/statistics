@@ -1,7 +1,7 @@
 
 # Applied Statistics
 
-This repository contains the submissions for 2024 Applied Statistics module for <em><strong>Applied Statistics</strong></em> module on <em><strong>Higher Diploma in Science in Computing in Data Analytics at ATU</strong></em>.  
+This repository contains the submissions for 2024 Applied Statistics module, part of the <em><strong>Higher Diploma in Science in Computing in Data Analytics at ATU</strong></em>.  
 
 *Submitted by*: Agnieszka Waszczuk 
 
@@ -22,7 +22,7 @@ This repository contains the submissions for 2024 Applied Statistics module for 
     * Task 4: ANOVA and Type II Error Estimation
 * <code>project.ipynb</code>: A comprehensive analysis of the PlantGrowth dataset, including t-tests and ANOVA, with detailed explanations of statistical concepts.
 * <code>data</code> /: Folder containing the PlantGrowth dataset used in the project.
-* <code>img</code> /: images used in this repository.
+* <code>img</code> /: Images used in this repository.
 * <code>requirementsproject.ipynb.txt</code>: List of dependencies to run the code seamlessly.
 
 ## Task Overview
@@ -30,7 +30,7 @@ This repository contains the submissions for 2024 Applied Statistics module for 
 <em><strong>Task 1</strong></em>: Permutations and Combinations
 Problem: Evaluate the probability of selecting six correct cups in an altered Lady Tasting Tea experiment with and without allowing one or two errors.
 
-<em><strong>Task 2</strong></em:>: Assessing Normal Distribution
+<em><strong>Task 2</strong></em>: Assessing Normal Distribution
 Generate random values from a normal distribution.
 Validate the distribution using the Shapiro-Wilk test.
 Visualize results with histograms and probability density functions.
@@ -43,6 +43,7 @@ Simulate and estimate the probability of committing a Type II error when perform
 
 
 ## Project Overview
+
 The project uses the PlantGrowth dataset, which contains measurements of plant weights across three groups:
 * <code>ctrl</code>: Control group.
 * <code>trt1</code>: Treatment group 1.
@@ -54,7 +55,8 @@ The project uses the PlantGrowth dataset, which contains measurements of plant w
 
 
 
-### Getting Started
+## Getting Started
+
 1. Install Anaconda
 2. Install Visual Studio Code
 3. Download or clone current repository statistics
@@ -66,12 +68,14 @@ The project uses the PlantGrowth dataset, which contains measurements of plant w
 
 
 ### Programing Language 
+
 Python 3.10.9 version was used
 
 * [Python](https://www.python.org/)
 
 ***
-### Technologies 
+## Technologies 
+
 Applications used: 
 
 * [Visual Studio Code](https://code.visualstudio.com/)
@@ -79,7 +83,8 @@ Applications used:
 
 ***
 
-### Important Library 
+## Important Library 
+
 Libraries used:
 
 * [pandas](https://pandas.pydata.org/)

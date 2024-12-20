@@ -61,7 +61,14 @@ The project uses the PlantGrowth dataset, which contains measurements of plant w
 2. Install Visual Studio Code
 3. Download or clone current repository statistics
 4. Open Command Interpreter and get into correct directory
-5. Install packages by running pip install -r requirements.txt 
+5. Install packages:
+```bash
+conda install --yes --file requirements.txt
+
+
+```bash
+pip install -r requirements.txt
+
 6. Run Jupyter Notebook
 7. On the home page of opened Jupyter server select <code>statistics</code>
 8. The Jupyter Notebook <code>statistics </code> project can be viewed directly on GitHub repository without installation 
@@ -73,7 +80,6 @@ Python 3.10.9 version was used
 
 * [Python](https://www.python.org/)
 
-***
 ## Technologies 
 
 Applications used: 
@@ -81,7 +87,7 @@ Applications used:
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Cmder](https://cmder.app/)
 
-***
+
 
 ## Important Library 
 
@@ -93,4 +99,5 @@ Libraries used:
 * [seborn](https://seaborn.pydata.org/)
 * [random](https://docs.python.org/3/library/random.html)
 * [sciPy](https://scipy.org/ )
+
 
